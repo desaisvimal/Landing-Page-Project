@@ -92,3 +92,21 @@ h1 {
     padding-right: 350px;
     gap: 25px;
 }
+
+.third-section-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 50px 350px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+h4 {
+    text-align: end;
+}
