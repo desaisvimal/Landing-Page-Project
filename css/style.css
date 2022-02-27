@@ -1,5 +1,8 @@
 /* style.css */
 
+body {
+    font-family: 'Roboto', sans-serif; 
+}
 .header {
     display: flex;
     justify-content: space-between;
@@ -134,4 +137,13 @@ h4 {
 .bottom-button {
     border: 3px solid #F9FAF8
     height: min-content;
+}
+
+.footer {
+    display: flex;
+    height: 96px;
+    justify-content: center;
+    align-items: center;
+    background-color: #152937;
+    color: #e5e7eb;
 }
