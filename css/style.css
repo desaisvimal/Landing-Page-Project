@@ -110,3 +110,28 @@ h1 {
 h4 {
     text-align: end;
 }
+
+.fourth-section-container {
+    margin: 48px auto;
+    padding: 8px 100px;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-between;
+    align-items: center;
+    width: 700px;
+    background-color: #3882F6;
+}
+
+.call-to-action {
+    font-size: 20px;
+    color: #f9faf8;
+}
+
+.sign-clicking {
+    color: #e5e7eb;
+}
+
+.bottom-button {
+    border: 3px solid #F9FAF8
+    height: min-content;
+}
